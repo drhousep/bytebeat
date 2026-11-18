@@ -27,7 +27,7 @@ q=tan(t),r=sqrt(t)*q,t%r // trauma
 // i learned how arrays work
 a=[2, 2.5, 3, 4, 5, 6, 5, 4, 5, 2, 3, 4, 5][(t>>12)%13],t>>4+cos(t/a)
 
-// printer fukker
+// printer fukker (floatbeat)
 sin(t>>t*(42&t>>10)/70)
 
 // floatbeat thing
